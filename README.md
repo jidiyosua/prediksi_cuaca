@@ -4,7 +4,7 @@ This is a python program for retrieving the weather forecast data from BMKG webs
 
 ##### How to Install?
 ```
-git clone https://github.com/Cypher999/indonesia_weather_forecast
+git clone https://github.com/jidiyosua/prediksi_cuaca
 cd indonesia_weather_forecast
 pip install -r req.txt
 python main.py
